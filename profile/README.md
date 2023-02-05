@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nitesh Singh</h1>
+<h1 align="center">Hi 👋, I'm Nitesh Singh aka Technical Navigator</h1>
 <h3 align="center">A passionate Cyber security expert from India</h3>
 
 <p align="left"> <a href="https://twitter.com/niteshlike123" target="blank"><img src="https://img.shields.io/twitter/follow/niteshlike123?logo=twitter&style=for-the-badge" alt="niteshlike123" /></a> </p>
